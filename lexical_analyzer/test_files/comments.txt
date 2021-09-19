@@ -1,0 +1,41 @@
+// Test one line comment
+
+/*
+    Multiline comment
+*/
+
+/* Multi 2 */
+
+/*
+
+    /*
+        Nested multi
+    */
+
+*/
+
+// /* multi on one-line should not be recognised */
+
+/*
+    // one-line in multi should not be recognised */
+
+// "string in one-line"
+
+/*
+    /* 1st level nested once */
+    /* 1nd level nested twice */
+*/
+
+/*
+    /*
+        /* 2nd level nested */
+    */
+*/
+
+// Next two operators should be recognised
+
+/*
+    // edge case 1 */
+
+*/
+

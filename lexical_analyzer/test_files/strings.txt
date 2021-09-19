@@ -1,0 +1,13 @@
+"String 01"
+
+"2nd string"
+
+"3rd" "4rth"
+
+"\tTab test, test backslash: \\\nAnd new line test"
+
+"Double quotes test: \""
+
+"Multi line
+string test"
+

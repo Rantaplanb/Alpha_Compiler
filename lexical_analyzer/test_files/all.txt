@@ -1,0 +1,125 @@
+// Test one line comment
+
+/*
+    Multiline comment
+*/
+
+/* Multi 2 */
+
+/*
+
+    /*
+        Nested multi
+    */
+
+*/
+
+// /* multi on one-line should not be recognised */
+
+/*
+    // one-line in multi should not be recognised */
+
+// "string in one-line"
+
+/*
+    /* 1st level nested once */
+    /* 1nd level nested twice */
+*/
+
+/*
+    /*
+        /* 2nd level nested */
+    */
+*/
+
+// Next two operators should be recognised
+
+/*
+    // edge case 1 */
+
+*/
+
+
+12.2
+
+8.0
+
+.123 .889
+
+.7700
+
+0.423
+
+0012.123
+
+
+the
+
+brown fox is extra_heavy
+
+tNrAin
+
+go4_sky_diving___
+12
+
+13 7700
+
+00912
+
+00
+
+
+if else
+
+while for
+
+function return
+
+break continue
+
+and not or
+
+local true false nil
+
+
++ = -
+
+* / %
+
+++ --
+
+!= ==
+
+< >
+
+<= >=
+
++++-====!==<-*
+
+
+{ } []
+
+( ) ; ,
+
+: .
+
+: : . .
+
+:: ..
+
+::: ...
+
+
+"String 01"
+
+"2nd string"
+
+"3rd" "4rth"
+
+"\tTab test, test backslash: \\\nAnd new line test"
+
+"Double quotes test: \""
+
+"Multi line
+string test"
+
